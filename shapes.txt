@@ -4,4 +4,4 @@ square
 pentagon
 hexagon
 octagon
-semi-circle
+rhombus
