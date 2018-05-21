@@ -2,3 +2,6 @@ circle
 triangle
 square
 pentagon
+hexagon
+octagon
+semi-circle
